@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, ;
+    background-color: #c1e2ef;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+}
+.photo{
+    display: block;
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid rgb(3, 3, 90);
+    object-fit: cover;
+
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(3, 3, 90);
+}
+h5{
+    text-align: center;
+    color: rgb(80, 80, 111);
+}
+h2{
+    color: #403a5e;
+    border-bottom: 2px solid #a5d0e1;
+}
+span{
+    color: #000000;
+    font-weight: bold;
+}
+p{
+    font-size: 14px;
+}
+li{
+    list-style-type: disc ;
+    padding-left: 5px;
+}
